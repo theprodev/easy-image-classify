@@ -9,7 +9,7 @@ Highlights:
 
 Setup Instructions:
 - Download the zip file from here. 
-- Upload to a live domain. It is a must. It will not work from localhost.
+- Upload the contents of src folder to a live domain. It is a must. It will not work from localhost.
 - You can put in any path on your domain like
 http://<www.yourdomain.com>/easy-image-classify/
 
@@ -93,6 +93,8 @@ You will see an screen like this;
 ![Create Model](https://raw.githubusercontent.com/theprodev/easy-image-classify/master/screenshots/inference.jpg)
 
 Now select any image from your computer and click the 'Uplaod & Check' button. You will see a result about the class of this image according your data set.
+
+Note: This scripts uses the free image classification service by Everlive.net
 
 Your Feedback is Welcome!
 
