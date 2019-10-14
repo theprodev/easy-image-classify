@@ -2,12 +2,12 @@
 
 Easy Image Classification on your own data set using deep learning without a single line of code. 
 
-Highlights:
+## Highlights
 - No coding required
 - No need to have a large data set. Just a few images of each class is fine. 
 - Easy Operation
 
-Setup Instructions:
+## Setup Instructions
 - Download the zip file from here. 
 - Upload the contents of src folder to a live domain. It is a must. It will not work from localhost.
 - You can put in any path on your domain like
@@ -74,9 +74,8 @@ Now you need to create a zip file of all your custom image classes. To do that c
 
 Then put the "images" folder into a zip. Name it like images.zip
 
-Note: 
+## Note
 You can use any number of classes and name them as you want. Images filenames are also not important. You can have any names. Just make sure that you have different images in test, train and valid folders.
-
 
 After that go here;
 http://<www.yourdomain.com>/easy-image-classify/
@@ -84,7 +83,7 @@ http://<www.yourdomain.com>/easy-image-classify/
 select your images' zip file and click 'Upload, ReModel and Run'
 After submitting the request your model will be ready after some time. It depends on your classes and number of images.
 
-INFERENCE
+## INFERENCE
 Browse this link
 http://<www.yourdomain.com>/easy-image-classify/index.php?opt=inf_form
 
