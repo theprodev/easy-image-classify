@@ -1,11 +1,13 @@
 # easy-image-classify
 
-Easy Image Classification on your own data set using deep learning without a single line of code. 
+Easy Image Classification on your own data set using deep learning without a single line of code. Great for end users.
 
 ## Highlights
 - No coding required
 - No need to have a large data set. Just a few images of each class is fine. 
 - Easy Operation
+- No need to learn python, tensorflow, caffe2 etc. 
+- No need to know about YOLO, darknet and other highly technical things.
 
 ## Setup Instructions
 - Download the zip file from here. 
