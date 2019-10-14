@@ -94,7 +94,7 @@ You will see an screen like this;
 
 Now select any image from your computer and click the 'Uplaod & Check' button. You will see a result about the class of this image according your data set.
 
-Note: This scripts uses the free image classification service by Everlive.net
+Note: This scripts uses the free image classification service by [Everlive.net link](https://www.everlive.net/artificial-intelligence/25-computer-vision/51-online-image-classification-service.html)
 
 Your Feedback is Welcome!
 
