@@ -11,12 +11,12 @@ Setup Instructions:
 - Download the zip file from here. 
 - Upload to a live domain. It is a must. It will not work from localhost.
 - You can put in any path on your domain like
-http://www.yourdomain.com/easy-image-classify/
+http://<www.yourdomain.com>/easy-image-classify/
 
 and that's it.
 
 Just open a browser and browse
-http://www.yourdomain.com/easy-image-classify/
+http://<www.yourdomain.com>/easy-image-classify/
 
 You will see an screen like this;
 
@@ -79,14 +79,14 @@ You can use any number of classes and name them as you want. Images filenames ar
 
 
 After that go here;
-http://www.yourdomain.com/easy-image-classify/
+http://<www.yourdomain.com>/easy-image-classify/
 
 select your images' zip file and click 'Upload, ReModel and Run'
 After submitting the request your model will be ready after some time. It depends on your classes and number of images.
 
 INFERENCE
 Browse this link
-http://www.yourdomain.com/easy-image-classify/index.php?opt=inf_form
+http://<www.yourdomain.com>/easy-image-classify/index.php?opt=inf_form
 
 You will see an screen like this;
 
