@@ -1,5 +1,3 @@
---- COMING SOON ---
-
 # easy-image-classify
 
 Easy Image Classification on your own data set using deep learning without a single line of code. Great for end users.
