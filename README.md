@@ -27,6 +27,7 @@ You will see an screen like this;
 Now you need to create a zip file of all your custom image classes. To do that create the following folders on your local computer.
 
 ---images
+
     --- test
           --- car
                 car1.jpg
