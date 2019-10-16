@@ -10,8 +10,8 @@ Easy Image Classification on your own data set using deep learning without a sin
 - No need to know about YOLO, darknet and other highly technical things.
 
 ## Setup Instructions
-- Download the zip file from here. 
-- Upload the contents of src folder to a live domain. It is a must. It will not work from localhost.
+- Download or Clone the repo.
+- Upload the contents of /www folder to a live domain. It is a must. It will not work from localhost.
 - You can put in any path on your domain like
 http://<www.yourdomain.com>/easy-image-classify/
 
